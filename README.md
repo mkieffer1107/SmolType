@@ -1,2 +1,2 @@
 # SmolType
-An autofill Chrome extension using SmolLM
+A Chrome autofill extension using SmolLM 🤗
